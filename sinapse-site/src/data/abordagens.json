@@ -1,0 +1,20 @@
+[
+  {
+    "id": "tcc",
+    "sigla": "TCC",
+    "nome": "Terapia Cognitivo-Comportamental",
+    "texto": "Olha para os pensamentos e hábitos que mantêm o sofrimento e treina, na prática, formas novas de reagir. Costuma ter objetivos claros e tarefas entre as sessões."
+  },
+  {
+    "id": "psicanalise",
+    "sigla": "Psicanálise",
+    "nome": "Psicanálise",
+    "texto": "Parte da fala livre para entender o que se repete na sua história e nos seus vínculos. É um processo mais aberto, em que você conduz o assunto de cada sessão."
+  },
+  {
+    "id": "act",
+    "sigla": "ACT",
+    "nome": "Terapia de Aceitação e Compromisso",
+    "texto": "Em vez de lutar contra o que você sente, ajuda a abrir espaço para as emoções difíceis e a agir de acordo com o que é importante para você."
+  }
+]

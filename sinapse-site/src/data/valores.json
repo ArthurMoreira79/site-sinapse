@@ -1,0 +1,33 @@
+{
+  "sessoes": {
+    "individual": { "id": "individual", "nome": "Sessão individual", "duracao": "50 min", "preco": 180, "slots": 1 },
+    "casal": { "id": "casal", "nome": "Sessão de casal", "duracao": "80 min", "preco": 240, "slots": 2 }
+  },
+  "planos": [
+    {
+      "id": "individual",
+      "nome": "Sessão individual",
+      "preco": 180,
+      "unidade": "por sessão",
+      "detalhe": "50 minutos, presencial ou online",
+      "itens": ["Adultos, adolescentes e crianças", "Recibo para reembolso", "Remarcação com 24 h de aviso"]
+    },
+    {
+      "id": "pacote",
+      "nome": "Pacote mensal",
+      "preco": 640,
+      "unidade": "4 sessões no mês",
+      "detalhe": "Sai a R$ 160 por sessão",
+      "destaque": true,
+      "itens": ["Uma sessão por semana com o mesmo profissional", "Horário fixo reservado para você", "Recibo para reembolso"]
+    },
+    {
+      "id": "casal",
+      "nome": "Sessão de casal",
+      "preco": 240,
+      "unidade": "por sessão",
+      "detalhe": "80 minutos, presencial ou online",
+      "itens": ["Com o casal junto na sessão", "Recibo para reembolso", "Remarcação com 24 h de aviso"]
+    }
+  ]
+}

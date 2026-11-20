@@ -1,0 +1,34 @@
+:root {
+  /* Cores (planejamento, seção 2) */
+  --cor-principal: #7494ea; /* destaques, ícones, linhas */
+  --cor-botao: #4f6fd1; /* botões com texto branco */
+  --cor-botao-hover: #3f5dbd;
+  --cor-marinho: #1e2a4a; /* títulos e texto */
+  --cor-texto: #1e2a4a;
+  --cor-texto-suave: #4f5a78;
+  --cor-fundo: #f6f8fd;
+  --cor-fundo-alt: #e8edfb; /* cards e seções alternadas */
+  --cor-lilas: #d9d6f5; /* selos, hover */
+  --cor-branco: #ffffff;
+  --cor-borda: #d6def5;
+  --cor-erro: #b3364a;
+  --cor-ok: #2f7d5b;
+
+  /* Tipografia */
+  --fonte-titulo: 'Montserrat', system-ui, sans-serif;
+  --fonte-corpo: 'Nunito Sans', system-ui, sans-serif;
+
+  /* Forma */
+  --raio-p: 10px;
+  --raio: 16px;
+  --raio-g: 28px;
+  --raio-arco: 999px 999px 28px 28px; /* janela em arco das fotos */
+  --sombra: 0 18px 40px -18px rgba(30, 42, 74, 0.22);
+  --sombra-leve: 0 6px 18px -10px rgba(30, 42, 74, 0.25);
+
+  /* Layout */
+  --largura-max: 1160px;
+  --altura-header: 76px;
+  --respiro: clamp(72px, 10vw, 128px);
+  --transicao: 0.25s cubic-bezier(0.3, 0.7, 0.3, 1);
+}

@@ -1,0 +1,9 @@
+[
+  { "id": "ansiedade", "nome": "Ansiedade e estresse", "icone": "wind", "frase": "Para quando a cabeça não desliga, o peito aperta e a rotina pesa mais do que deveria." },
+  { "id": "depressao", "nome": "Depressão e humor", "icone": "cloudSun", "frase": "Cuidado para dias sem energia, tristeza que não passa e oscilações de humor." },
+  { "id": "casal", "nome": "Terapia de casal", "icone": "heart", "frase": "Um espaço neutro para o casal conversar, se ouvir e decidir os próximos passos." },
+  { "id": "infantil", "nome": "Psicologia infantil", "icone": "blocks", "frase": "Atendimento lúdico para crianças, com orientação próxima aos pais e à escola." },
+  { "id": "adolescentes", "nome": "Adolescentes", "icone": "headphones", "frase": "Escuta sem julgamento para as dúvidas, pressões e mudanças dessa fase." },
+  { "id": "luto", "nome": "Luto e perdas", "icone": "flower", "frase": "Acolhimento para atravessar a perda de alguém, de um vínculo ou de um projeto de vida." },
+  { "id": "orientacao", "nome": "Orientação profissional", "icone": "compass", "frase": "Ajuda para escolher um curso, mudar de carreira ou reencontrar sentido no trabalho." }
+]

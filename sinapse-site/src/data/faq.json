@@ -1,0 +1,26 @@
+[
+  {
+    "pergunta": "Como é a primeira sessão?",
+    "resposta": "É uma conversa de acolhimento. O profissional quer entender o que trouxe você até aqui, explica como a terapia funciona e tira suas dúvidas. Você não precisa preparar nada nem saber por onde começar."
+  },
+  {
+    "pergunta": "Quanto tempo dura cada sessão?",
+    "resposta": "A sessão individual dura 50 minutos e a de casal, 80 minutos. Na maioria dos casos os encontros são semanais, mas a frequência é combinada com o profissional."
+  },
+  {
+    "pergunta": "Terapia online funciona?",
+    "resposta": "Sim. A terapia online é reconhecida pelo Conselho Federal de Psicologia e segue as mesmas regras de ética e sigilo da presencial. Basta um celular ou computador com internet e um lugar reservado onde você possa falar à vontade."
+  },
+  {
+    "pergunta": "O que eu falo fica em sigilo?",
+    "resposta": "Sim. O sigilo é um dever previsto no Código de Ética Profissional do Psicólogo. O que é dito na sessão fica entre você e o profissional, salvo nas exceções que a própria lei prevê, como risco grave à vida."
+  },
+  {
+    "pergunta": "Vocês atendem plano de saúde?",
+    "resposta": "O atendimento é particular, mas emitimos recibo com o CRP do profissional para você pedir reembolso ao seu plano. Antes de começar, confira com o plano quanto ele reembolsa por sessão."
+  },
+  {
+    "pergunta": "Como sei qual profissional escolher?",
+    "resposta": "Na página de agendamento há uma triagem de três perguntas que indica os profissionais mais indicados para o seu caso. Se ainda tiver dúvida, chame a gente no WhatsApp."
+  }
+]

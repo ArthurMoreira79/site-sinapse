@@ -1,0 +1,168 @@
+[
+  {
+    "id": "marina",
+    "nome": "Marina Duarte",
+    "primeiroNome": "Marina",
+    "crp": "CRP 22/XXXXX",
+    "foto": "equipe-marina",
+    "abordagem": "tcc",
+    "especialidades": [
+      "infantil",
+      "ansiedade"
+    ],
+    "publicos": [
+      "eu",
+      "crianca"
+    ],
+    "modalidades": [
+      "presencial",
+      "online"
+    ],
+    "sessoes": [
+      "individual"
+    ],
+    "bio": "Atende crianças e adultos com ansiedade e estresse. Nas sessões infantis, usa jogos e desenhos e mantém os pais por perto do processo.",
+    "expediente": {
+      "1": [
+        8,
+        17
+      ],
+      "2": [
+        8,
+        17
+      ],
+      "4": [
+        8,
+        17
+      ]
+    },
+    "foco": 48
+  },
+  {
+    "id": "rafael",
+    "nome": "Rafael Nogueira",
+    "primeiroNome": "Rafael",
+    "crp": "CRP 22/XXXXX",
+    "foto": "equipe-rafael",
+    "abordagem": "psicanalise",
+    "especialidades": [
+      "casal",
+      "depressao"
+    ],
+    "publicos": [
+      "eu",
+      "casal"
+    ],
+    "modalidades": [
+      "presencial",
+      "online"
+    ],
+    "sessoes": [
+      "individual",
+      "casal"
+    ],
+    "bio": "Atende adultos e casais. Trabalha com escuta atenta e sem pressa, para que cada pessoa entenda seus padrões e encontre novos caminhos.",
+    "expediente": {
+      "1": [
+        13,
+        20
+      ],
+      "3": [
+        13,
+        20
+      ],
+      "5": [
+        13,
+        20
+      ]
+    },
+    "foco": 55
+  },
+  {
+    "id": "lucia",
+    "nome": "Lúcia Barros",
+    "primeiroNome": "Lúcia",
+    "crp": "CRP 22/XXXXX",
+    "foto": "equipe-lucia",
+    "abordagem": "act",
+    "especialidades": [
+      "luto",
+      "depressao"
+    ],
+    "publicos": [
+      "eu",
+      "adolescente"
+    ],
+    "modalidades": [
+      "presencial",
+      "online"
+    ],
+    "sessoes": [
+      "individual"
+    ],
+    "responsavelTecnica": true,
+    "bio": "Responsável técnica da Sinapse. Há mais de 25 anos acompanha pessoas em processos de luto, perdas e depressão.",
+    "expediente": {
+      "2": [
+        8,
+        17
+      ],
+      "3": [
+        8,
+        17
+      ],
+      "5": [
+        8,
+        17
+      ]
+    },
+    "foco": 36
+  },
+  {
+    "id": "caio",
+    "nome": "Caio Mendes",
+    "primeiroNome": "Caio",
+    "crp": "CRP 22/XXXXX",
+    "foto": "equipe-caio",
+    "abordagem": "tcc",
+    "especialidades": [
+      "adolescentes",
+      "orientacao",
+      "ansiedade"
+    ],
+    "publicos": [
+      "eu",
+      "adolescente"
+    ],
+    "modalidades": [
+      "online"
+    ],
+    "sessoes": [
+      "individual"
+    ],
+    "bio": "Atende adolescentes e jovens adultos, só online. Ajuda com ansiedade, escolhas de carreira e a transição para a vida adulta.",
+    "expediente": {
+      "1": [
+        14,
+        20
+      ],
+      "2": [
+        14,
+        20
+      ],
+      "3": [
+        14,
+        20
+      ],
+      "4": [
+        14,
+        20
+      ],
+      "6": [
+        8,
+        12
+      ]
+    },
+    "foco": 38
+  }
+]
