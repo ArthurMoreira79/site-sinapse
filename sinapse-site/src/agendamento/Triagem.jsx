@@ -103,7 +103,7 @@ export default function Triagem({ onEscolher, onVoltar, onVerEquipe }) {
                 <img {...foto} alt={`Retrato de ${p.nome}`} />
                 <div className="sugestao-corpo">
                   <h3>{p.nome}</h3>
-                  <p className="crp">{p.crp} (fictício) · {abordagens.find((a) => a.id === p.abordagem).sigla}</p>
+                  <p className="crp">{p.crp} (fictício) · {p.abordagens.map((id) => abordagens.find((a) => a.id === id).sigla).join(' e ')}</p>
                   {motivoSugestao(p, respostas) && <p className="sugestao-motivo">{motivoSugestao(p, respostas)}</p>}
                   <ul className="chips">
                     {p.especialidades.map((id) => (

@@ -27,13 +27,17 @@ export function CardProfissional({ p, indice = 0 }) {
           {p.crp} <abbr title="Nome e registro fictícios, criados para este projeto demonstrativo">(fictício)</abbr>
         </p>
         <p className="card-prof-bio">{p.bio}</p>
-        <ul className="chips" aria-label="Especialidades e abordagem">
+        <ul className="chips" aria-label="Especialidades e abordagens">
           {p.especialidades.map((id) => (
             <li key={id} className="chip">
               {nomeEsp(id)}
             </li>
           ))}
-          <li className="chip chip-lilas">{siglaAbordagem(p.abordagem)}</li>
+          {p.abordagens.map((id) => (
+            <li key={id} className="chip chip-lilas">
+              {siglaAbordagem(id)}
+            </li>
+          ))}
         </ul>
         <p className="card-prof-modalidades">
           {p.modalidades.includes('presencial') && (

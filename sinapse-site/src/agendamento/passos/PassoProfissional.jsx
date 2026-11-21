@@ -59,7 +59,7 @@ export default function PassoProfissional({ tituloRef, profissionalId, escolher,
               <span className="prof-opcao-texto">
                 <strong>{p.nome}</strong>
                 <span className="crp">
-                  {p.crp} (fictício) · {abordagens.find((a) => a.id === p.abordagem).sigla}
+                  {p.crp} (fictício) · {p.abordagens.map((id) => abordagens.find((a) => a.id === id).sigla).join(' e ')}
                 </span>
                 <span className="prof-opcao-esp">
                   {p.especialidades.map((id) => especialidades.find((e) => e.id === id).nome).join(' · ')}

@@ -16,5 +16,11 @@
     "sigla": "ACT",
     "nome": "Terapia de Aceitação e Compromisso",
     "texto": "Em vez de lutar contra o que você sente, ajuda a abrir espaço para as emoções difíceis e a agir de acordo com o que é importante para você."
+  },
+  {
+    "id": "analise-comportamento",
+    "sigla": "ABA",
+    "nome": "Análise do Comportamento",
+    "texto": "Observa o que acontece antes e depois de cada comportamento para entender o que o mantém e ensina, passo a passo, novas formas de agir. É muito usada com crianças, inclusive no autismo, sempre com a família por perto."
   }
 ]

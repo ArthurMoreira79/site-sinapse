@@ -30,7 +30,7 @@ O objetivo do site é **levar a pessoa até a primeira consulta**. Quem não sab
 
 ### Página inicial
 
-Hero, sobre a clínica, especialidades, abordagens (TCC, Psicanálise e ACT), atendimento online, equipe, como funciona, valores, perguntas frequentes e chamada final. Os botões já abrem o agendamento com a escolha feita: `/agendar?profissional=caio`, `/agendar?modalidade=online`, `/agendar?sessao=casal` ou `/agendar?caminho=triagem`.
+Hero, sobre a clínica, especialidades, abordagens (TCC, Psicanálise, ACT e Análise do Comportamento), atendimento online, equipe, como funciona, valores, perguntas frequentes e chamada final. Os botões já abrem o agendamento com a escolha feita: `/agendar?profissional=caio`, `/agendar?modalidade=online`, `/agendar?sessao=casal` ou `/agendar?caminho=triagem`.
 
 ### Agendamento (`/agendar`)
 
@@ -44,7 +44,7 @@ Hero, sobre a clínica, especialidades, abordagens (TCC, Psicanálise e ACT), at
 
 | Profissional (fictício) | Foco | Abordagem | Atendimento |
 |---|---|---|---|
-| Marina Duarte | Psicologia infantil, ansiedade e estresse | TCC | Presencial e online |
+| Marina Duarte | Psicologia infantil, ansiedade e estresse | TCC e Análise do Comportamento (ABA) | Presencial e online |
 | Rafael Nogueira | Terapia de casal, depressão e humor | Psicanálise | Presencial e online |
 | Lúcia Barros (responsável técnica) | Luto e perdas, depressão e humor | ACT | Presencial e online |
 | Caio Mendes | Adolescentes, orientação profissional, ansiedade | TCC | Só online |

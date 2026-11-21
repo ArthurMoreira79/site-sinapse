@@ -5,7 +5,10 @@
     "primeiroNome": "Marina",
     "crp": "CRP 22/XXXXX",
     "foto": "equipe-marina",
-    "abordagem": "tcc",
+    "abordagens": [
+      "tcc",
+      "analise-comportamento"
+    ],
     "especialidades": [
       "infantil",
       "ansiedade"
@@ -21,7 +24,7 @@
     "sessoes": [
       "individual"
     ],
-    "bio": "Atende crianças e adultos com ansiedade e estresse. Nas sessões infantis, usa jogos e desenhos e mantém os pais por perto do processo.",
+    "bio": "Atende crianças e adultos com ansiedade e estresse. Com as crianças, une TCC e Análise do Comportamento, usa jogos e desenhos e mantém os pais por perto do processo.",
     "expediente": {
       "1": [
         8,
@@ -44,7 +47,9 @@
     "primeiroNome": "Rafael",
     "crp": "CRP 22/XXXXX",
     "foto": "equipe-rafael",
-    "abordagem": "psicanalise",
+    "abordagens": [
+      "psicanalise"
+    ],
     "especialidades": [
       "casal",
       "depressao"
@@ -84,7 +89,9 @@
     "primeiroNome": "Lúcia",
     "crp": "CRP 22/XXXXX",
     "foto": "equipe-lucia",
-    "abordagem": "act",
+    "abordagens": [
+      "act"
+    ],
     "especialidades": [
       "luto",
       "depressao"
@@ -124,7 +131,9 @@
     "primeiroNome": "Caio",
     "crp": "CRP 22/XXXXX",
     "foto": "equipe-caio",
-    "abordagem": "tcc",
+    "abordagens": [
+      "tcc"
+    ],
     "especialidades": [
       "adolescentes",
       "orientacao",

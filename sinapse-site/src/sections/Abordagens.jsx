@@ -23,9 +23,9 @@ export default function Abordagens() {
 
         <div className="grade-abordagens">
           {abordagens.map((a, i) => {
-            const quem = equipe.filter((p) => p.abordagem === a.id).map((p) => p.primeiroNome);
+            const quem = equipe.filter((p) => p.abordagens.includes(a.id)).map((p) => p.primeiroNome);
             return (
-              <article key={a.id} className="card-abordagem revelar" style={{ '--atraso': `${i * 0.08}s` }}>
+              <article key={a.id} className="card-abordagem revelar" style={{ '--atraso': `${(i % 2) * 0.08}s` }}>
                 <span className="sigla">{a.sigla}</span>
                 <h3>{a.nome}</h3>
                 <p>{a.texto}</p>
